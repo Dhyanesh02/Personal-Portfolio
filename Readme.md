@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://github.com/Dhyanesh02/Personal-Portfolio
+> [https://github.com/Dhyanesh02/Personal-Portfolio](https://dhyanesh02.github.io/Personal-Portfolio/)
 
 :star: Star me on GitHub — it helps!
 
